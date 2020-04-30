@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BackgroundLoop.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ScrollingObject.cs" />
     <None Include="Assets\Font\License.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Unity-Programming-Essence-master/Unity-Programming-Essence-master/11/Uni-Run/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
